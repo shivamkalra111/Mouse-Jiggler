@@ -32,7 +32,6 @@ def get_idle_duration():
 
 jiggle = Tk()
 jiggle.title('Mouse Jiggler')
-jiggle.iconbitmap('Mice.ico')
 jiggle.geometry("400x230")
 
 def input_check(text):
